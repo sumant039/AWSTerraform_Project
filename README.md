@@ -1,4 +1,4 @@
-# AWS_Infra_Terraform
+# Terraform_Project
 AWS Infrastructure Structure using the Terraform.
 
 Architecture diagram
